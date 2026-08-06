@@ -1,14 +1,14 @@
-# odin recipes project
+# Odin Recipes Project
 
-## goals and achivements
+## Goals and Achivements
 
 - Create a basic website about 3 recipes implementing git, github and html.
 
-## tech stack
+## Tech stack
 
 * **HTML (Hypertext Markup Language):** Used to structure the content of the website.
 
-## steps
+## Steps
 
 * Setup directory structure with git, github, bash and vs-code
 * Create html files and setup recipes with html
